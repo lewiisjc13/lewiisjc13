@@ -8,14 +8,12 @@ A fourth-year ITM & Cybersecurity student who's detailed oriented and highly int
 My journey in Information Technology has led me to develop an interest in IT & Cybersecurity. Now that im about to graduate, I am eager to transition into these fields and contribute in a security/infrastructure analyst role. 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Skill                                           | Associated Project         |
+|-------------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis            | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Digital Forensic Image Recovery                 | Disc Image & Photo Recovery |
+| Security Automation with Shuffle SOAR           | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -40,6 +38,12 @@ My journey in Information Technology has led me to develop an interest in IT & C
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Forensics
+<div>
+    <img src="https://img.shields.io/badge/-Autopsy_Forensics_Tool-000000?&style=for-the-badge&logo=autopsy&logoColor=white" />
+
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -48,4 +52,5 @@ My journey in Information Technology has led me to develop an interest in IT & C
 
 ## Projects
 - Detection Lab
+- Digital Forensics
 - SOC Automation Project
