@@ -12,31 +12,9 @@ My journey in Information Technology has led me to develop an interest in IT & C
 |-------------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis            | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Digital Forensic Image Recovery                 | Disc Image & Photo Recovery |
+| Digital Forensic Image Recovery                 | <a href="https://github.com/lewiisjc13/Disc-Image-Photo-Recovery">Disc Image & Photo Recovery |
 | Security Automation with Shuffle SOAR           | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ### Forensics
 <div>
@@ -46,11 +24,12 @@ My journey in Information Technology has led me to develop an interest in IT & C
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    
+<a href="https://www.credly.com/badges/51d358bd-5db5-480a-8945-623a07fba514/linked_in_profile" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" />
+</a>
 
 </div>
 
 ## Projects
-- Detection Lab
-- Digital Forensics
-- SOC Automation Project
+- <a href="https://github.com/lewiisjc13/Disc-Image-Photo-Recovery">Digital Forensics
