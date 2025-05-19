@@ -10,15 +10,15 @@ My journey in Information Technology has led me to develop an interest in IT & C
 
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis            | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Digital Forensics                               | <a href="https://github.com/lewiisjc13/Disc-Image-Photo-Recovery">Malware Analysis |
-| Security Automation with Shuffle SOAR           | SOC Automation Lab|
+| Digital Forensics                               | <a href="https://github.com/lewiisjc13/Memory-Malware-Analysis">Malware Analysis |
+
 
 
 ### Forensics
 <div>
     <img src="https://img.shields.io/badge/-Autopsy_Forensics_Tool-000000?&style=for-the-badge&logo=autopsy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Volatility_Forensics_Tool-000000?style=for-the-badge&logo=veritas&logoColor=white" />
+
 
 </div>
 
@@ -32,5 +32,5 @@ My journey in Information Technology has led me to develop an interest in IT & C
 </div>
 
 ## Projects
-- <a href="https://github.com/lewiisjc13/Disc-Image-Photo-Recovery">Digital Forensics
-- Memory & Malware Analysis
+- <a href="https://github.com/lewiisjc13/Disc-Image-Photo-Recovery">Image Photo Recovery
+- <a href="https://github.com/lewiisjc13/Memory-Malware-Analysis">Malware Analysis
