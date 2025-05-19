@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/carlos-lewis3"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-A fourth-year ITM & Cybersecurity student who's detailed oriented and highly interested in technology. 
+A recent graduate with a bachelor's degree in Information Technology & Management. As well as a Minor in Cybersecurity.  Im someone who's detailed oriented and highly interested in technology and security. 
 ## Objective
 
 My journey in Information Technology has led me to develop an interest in IT & Cybersecurity. Now that im about to graduate, I am eager to transition into these fields and contribute in a security/infrastructure analyst role. 
@@ -12,7 +12,7 @@ My journey in Information Technology has led me to develop an interest in IT & C
 |-------------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis            | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Digital Forensic Image Recovery                 | <a href="https://github.com/lewiisjc13/Disc-Image-Photo-Recovery">Disc Image & Photo Recovery |
+| Digital Forensics                               | <a href="https://github.com/lewiisjc13/Disc-Image-Photo-Recovery">Malware Analysis |
 | Security Automation with Shuffle SOAR           | SOC Automation Lab|
 
 
@@ -33,3 +33,4 @@ My journey in Information Technology has led me to develop an interest in IT & C
 
 ## Projects
 - <a href="https://github.com/lewiisjc13/Disc-Image-Photo-Recovery">Digital Forensics
+- Memory & Malware Analysis
