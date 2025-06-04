@@ -11,6 +11,7 @@ My journey in Information Technology has led me to develop an interest in IT & C
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
 | Digital Forensics                               | <a href="https://github.com/lewiisjc13/Memory-Malware-Analysis">Malware Analysis |
+| Threat Hunting (Windows)                        | <a href="https://github.com/lewiisjc13/Windows-Threat-Hunting">Windows Threat Hunting  |
 
 
 
