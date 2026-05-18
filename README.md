@@ -30,7 +30,7 @@ I am currently building toward a career as a Cloud Security Engineer with infras
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" />
 </a>
 <a href="https://www.credly.com/earner/earned/badge/ee9a43ae-28c5-4bc5-a7e4-d51466db8f91" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/CySA+%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA CySA+ Badge" />
+  <img src="https://img.shields.io/badge/CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA CySA+ Badge" />
 </a>
 <a href="https://www.credly.com/earner/earned/badge/68188dbe-06ed-4b65-bd55-681730df8420" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/CSAP%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA CSAP Badge" />
