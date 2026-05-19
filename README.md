@@ -43,8 +43,9 @@ I am currently building toward a career as a Cloud Security Engineer with infras
 ## Portfolio Projects
 
 ### Cloud Engineering
-| [AWS Secure Static Website Architecture](https://github.com/lewisjc13/YOUR-REPO-LINK) | AWS, S3, IAM, VPC, CloudFront, Security | Designed and documented a secure AWS-hosted static website architecture with private networking, access controls, and cloud security considerations. |
-| [AWS Highly Available Web App Infrastructure](https://github.com/lewisjc13/YOUR-REPO-LINK) | AWS, EC2, ALB, Auto Scaling, VPC | Built a multi-AZ web application environment using load balancing, auto scaling, private routing, and infrastructure hardening practices. |
+| [AWS Secure Static Website Architecture](https://github.com/lewisjc13/YOUR-REPO-LINK) | Designed and documented a secure AWS-hosted static website architecture with private networking, access controls, and cloud security considerations. |
+| [AWS Highly Available Web App Infrastructure](https://github.com/lewiisjc13/AWS-Highly-Available-Web-Application) | Built a multi-AZ web application environment using load balancing, auto scaling, private routing, and infrastructure hardening practices. |
+
 
 
 ### Cybersecurity & Forensics
