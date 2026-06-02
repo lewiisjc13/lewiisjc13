@@ -44,7 +44,7 @@ The repo below contains a Malware Analysis lab. In the future, I plan to add mor
 | Project | Focus Area | Status |
 |---|---|---|
 |[Stuxnet Malware Analysis](https://github.com/lewiisjc13/Memory-Malware-Analysis) | Volatility Framework | Completed |
-
+|[Windows Threat Hunting](https://github.com/lewiisjc13/Windows-Threat-Hunting) | Windows Registry, Autoruns | Completed
 
 
 
