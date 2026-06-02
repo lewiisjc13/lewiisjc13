@@ -23,7 +23,7 @@ I am currently building toward a career as a Cloud Security Engineer with infras
 
 </div>
 
-## Project Series
+## Cloud Project Series
 
 This portfolio will progress from GUI-based AWS fundamentals into more production-aligned cloud architecture patterns, including private application tiers, centralized security monitoring, and infrastructure as code.
 
@@ -34,10 +34,19 @@ This portfolio will progress from GUI-based AWS fundamentals into more productio
 | [Cloud Security Monitoring Lab](https://github.com/lewiisjc13/AWS-Security-Monitoring-Audit-Lab/tree/main) | CloudTrail, CloudWatch, GuardDuty, AWS Config | Completed |
 |Infrastructure as Code Rebuild| CloudFormation / Terraform | In-Progress |
 
+## Security Project Series
 
-
+The repo below contains a Malware Analysis lab. In the future, I plan to add more security focused labs such as installing and configuraing a SIEM, network security monitoring and endpoint level security.
 
 <!-- 
 ### Cybersecurity & Forensics
-- <a href="https://github.com/lewiisjc13/Disc-Image-Photo-Recovery">Image Photo Recovery
-- <a href="https://github.com/lewiisjc13/Memory-Malware-Analysis">Malware Analysis -->
+- <a href="https://github.com/lewiisjc13/Disc-Image-Photo-Recovery">Image Photo Recovery -->
+| Project | Focus Area | Status |
+|---|---|---|
+|[Stuxnet Malware Analysis](https://github.com/lewiisjc13/Memory-Malware-Analysis) | Volatility Framework | Completed |
+
+
+
+
+
+
