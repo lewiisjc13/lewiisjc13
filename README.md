@@ -14,16 +14,16 @@ I am currently building toward a career as a Cloud Security Engineer with infras
 <div>
     
 <a href="https://www.credly.com/badges/fd945582-f0fd-4837-ad2c-d45df9ea7ea3/public_url" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" />
+  <img src="https://img.shields.io/badge/-Security%2B-301934?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" />
 </a>
 <a href="https://www.credly.com/badges/ee9a43ae-28c5-4bc5-a7e4-d51466db8f91/public_url" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA CySA+ Badge" />
+  <img src="https://img.shields.io/badge/CySA%2B-301934?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA CySA+ Badge" />
 </a>
 
 
 </div>
 
-## Cloud Project Series
+## AWS Cloud Project Series
 
 This portfolio will progress from GUI-based AWS fundamentals into more production-aligned cloud architecture patterns, including private application tiers, centralized security monitoring, and infrastructure as code.
 
