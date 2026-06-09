@@ -52,4 +52,4 @@ The repo below contains a Malware Analysis lab. In the future, I plan to add mor
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](./License) file for details.
+This repository and all others inside of it are licensed under the MIT License. See the [LICENSE](./License) file for details.
